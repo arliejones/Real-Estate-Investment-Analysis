@@ -1,7 +1,7 @@
 # Real Estate Investment Analysis
 
 
-This program uses PropTech to build a program that offer an instant, one-click service for people to buy properties and then rent them. The program uses aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
+This program uses PropTech to build a program that offers an instant, one-click service for people to buy properties and then rent them. The program uses aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
 
 ----
 
